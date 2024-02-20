@@ -1,0 +1,4 @@
+Kekunci utama ataupun primary key pada pangkalan data mySQL digunakan sebagai kolum ii sebagai perbezaan. Suatu jadual atau table hanya dapat memiliki 1 kekunci utama. Bersifat unik dan tak boleh NULL (kosong).
+
+Maksud penomalan:
+	Penomalan ialah satu kaedah menganalisis jadual-jadual berasaskan attribut kunci dan kebergantungan fungsi dengan tujuan mengurangkan daplikasi dalam data. Penomalan pada kebiasaannya akan memecahkan jadual 0NF kepada dua atau lebih jadual-jadual hubungan yang sudah ternormal. Objektif penukaran 1NF adalah untuk memastikan lajur jadual adalah atomic dan mempunyai kuci primer. Atomic ialah tidak ada kumpulan lajur yang berulang.

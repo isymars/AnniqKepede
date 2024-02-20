@@ -1,0 +1,12 @@
+Soalan struktur dan objektif ( Cg Umi )
+
+1. Baca model dalam pangkalan data
+2. Ciri-ciri komponen pangkalan data
+3. Baca tentang integriti data,ketakalan dan kelewahan data
+4. Cari rajah ANSI-SPARC
+5. Baca entiti dan attribut semua
+6. ERD
+7. Tiga jenis anomali
+8. Installation wamp server
+9. Tiga kategori pangkalan data
+10. Arahan SQL

@@ -1,0 +1,1 @@
+Objektif 3NF: menghapuskan kebergantungan fungsi transitif.
